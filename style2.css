@@ -1,0 +1,75 @@
+header{
+	background: #339966;
+	height: 70px;
+	color:#fff;
+}
+a{text-decoration: none;color: #fff;}
+header p{padding-top:20px;}
+footer{
+	background: #28a745;
+	height: 80px;
+	color:#fff;
+}
+footer p{padding-top:30px;}
+.image{
+	padding-top:10%;
+	height: 20%;
+	width: 100%;
+}
+.intro{
+	margin:150px 0px 150px 70px;
+}
+.question{height: 403px;}
+.result-logo{margin-left: 42%;margin-top:1.6%;}
+.result-logo1{margin-left: 55%;}
+.result-container{margin-left: 40%;margin-top:1%; color:#684B68;}
+.logout{padding-top:100px;}
+.next{margin-left:200px;}
+.answer{color:green;font-weight: 300;font-size: larger; }
+.result{height: 452px;}
+#timer{ float:right;padding: 5px 20px 0 0;}
+.finalsubmit{
+    background-color:#339966;
+    color:white;
+    margin:50px 0px 50px 0px;
+    border-radius: 5px;
+    width: 150px;
+}
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+  }
+  th, td {
+	padding:2px 25px 2px 25px;
+  }
+  body{
+	background-color: rgb(226, 232, 228);
+  }
+.userbox1{
+	height: 100px;
+	width: 500px;
+	margin-top: 20%;
+	margin-bottom: 20%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: brown;
+	border: 2px solid black;
+}
+.userbox2{
+	height: 100px;
+	width: 500px;
+	margin-top: 20%;
+	margin-bottom: 20%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: goldenrod;
+	border: 2px solid black;
+}
+table{
+	border:none;
+	text-align: left;
+}
+.createpalete{
+	margin: auto;
+	width: 500px;
+}
